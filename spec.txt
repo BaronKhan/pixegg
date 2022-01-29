@@ -1,0 +1,24 @@
+Arduino Uno:
+80mm length
+55mm width
+15mm height (+30mm gap for wires)
+
+Pixel Bugs Case (upright):
+45mm length
+25mm width
+65mm height
+20mm curvature radius
+2mm cover thickness
+
+Servo Motor (Dial on top):
+23mm length (+6mm each side)
+13mm width
+27mm height
+
+Servo Motor Dial:
+17mm radius
+
+Ultrasonic range finder:
+45mm length
+16mm width
+21mm height
