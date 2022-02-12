@@ -17,7 +17,7 @@ void Pixegg::Start()
 void Pixegg::Loop()
 {
     const auto closedCm = m_ping.ping_cm();
-    if (closedCm > 10 && closedCm < 30)
+    if (closedCm > 10 && closedCm < 25)
     {
         Open();
         int openCm = -1;

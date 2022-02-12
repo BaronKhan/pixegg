@@ -17,7 +17,7 @@ public:
         int m_urfTrigPwmPin = 2;
         int m_urfEchoPwmPin = 4;
         int m_maxDistanceCm = 200;
-        int m_torque = 120;
+        int m_torque = 180;
     } m_params;
 
 private:
